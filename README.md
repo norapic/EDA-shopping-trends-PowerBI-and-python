@@ -15,5 +15,7 @@ Example of a word clound displaying states names depending of the number of purs
 
 ## PowerBI dashboard
 Simple visuals of powerBI were used, along with filters.
-Example a visual created: an iteractive map displaying the number of customers in each states.
+Example a visual created:
+
+Iteractive map displaying the number of customers in each states.
 ![alt text](powerBI_map-1.png)
