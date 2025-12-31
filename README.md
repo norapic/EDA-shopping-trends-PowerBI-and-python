@@ -1,21 +1,21 @@
-This project is an exploratory data analysis using a kaggle dataset
+This project is an exploratory data analysis using a Kaggle dataset
 
 # Description
-This project is meant to display basic EDA skills using jupiter notebook and powerBI. The notebook contains classes of methods to analyse two different types of variables: quantivative and qualitative. Then classes are then used to answer hypothetical questions about the dataset such as "what is the average customer's age ?".
-In the powerBI dashborad, interactive visuals such as maps and graphs were crated. The data were imported as csv files in both tools.
+This project is meant to display basic EDA skills using Jupyter notebook and PowerBI. The notebook contains classes of methods to analyse two different types of variables: quantivative and qualitative. Then classes are then used to answer hypothetical questions about the dataset such as : "what is the average customer's age ?".
+In the PowerBI dashboard, interactive visuals such as maps and graphs were crated. The data were imported as csv files in both tools.
 
-# Ressources
-The data set used is form the platform **kaggle:** https://www.kaggle.com/code/iamsouravbanerjee/decoding-customer-shopping-trends/input
+# Resources
+The data set used is from the platform **Kaggle:** https://www.kaggle.com/code/iamsouravbanerjee/decoding-customer-shopping-trends/input
 
 # Analysis
-## Jupiter notebook
-The analysis was made using basic python data analysis libraries: numpy, pandas and matplotlib. Also wordlcloud was used to create particular visuals for the qualitative variables.
-Example of a word cloud displaying states names depending on the number of purshases in each one:
+## Jupyter notebook
+The analysis was made using basic python data analysis libraries: numpy, pandas and matplotlib. Also wordcloud was used to create particular visuals for the qualitative variables.
+Example of a word cloud displaying states names depending on the number of purchases in each one:
 ![alt text](notebook_locations-1.png)
 
 ## PowerBI dashboard
-Simple visuals of powerBI were used, along with filters.
+Simple visuals of PowerBI were used, along with filters.
 Example a visual created:
 
-Iteractive map displaying the number of customers in each states.
+Interactive map displaying the number of customers in each states.
 ![alt text](powerBI_map-1.png)
