@@ -1,8 +1,8 @@
 This project is an exploratory data analysis using a Kaggle dataset
 
 # Description
-This project is meant to display basic EDA skills using Jupyter notebook and PowerBI. The notebook contains classes of methods to analyse two different types of variables: quantivative and qualitative. Then classes are then used to answer hypothetical questions about the dataset such as : "what is the average customer's age ?".
-In the PowerBI dashboard, interactive visuals such as maps and graphs were crated. The data were imported as csv files in both tools.
+This project is meant to display basic EDA skills using Jupyter notebook and PowerBI. The notebook contains classes of methods to analyse two different types of variables: quantivative and qualitative. The classes are then used to answer hypothetical questions about the dataset such as : "what is the average customer's age ?".
+In the PowerBI dashboard, interactive visuals such as maps and graphs were created. The data were imported as csv files in both approaches.
 
 # Resources
 The data set used is from the platform **Kaggle:** https://www.kaggle.com/code/iamsouravbanerjee/decoding-customer-shopping-trends/input
